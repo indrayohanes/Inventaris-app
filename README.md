@@ -1,4 +1,14 @@
 # Aplikasi Inventaris  
-Dibuat dengan Python + Streamlit.  
-## Cara Menjalankan  
-```bashstreamlit run app.py
+Aplikasi berbasis web untuk manajemen inventaris barang dengan fitur CRUD (Create, Read, Update, Delete) dan ekspor data ke CSV.
+
+## 🚀 Fitur Utama
+- Tambah/Edit/Hapus data barang
+- Filter data berdasarkan kategori
+- Pencarian cepat
+- Ekspor data ke CSV
+- Antarmuka interaktif
+
+## 🛠️ Teknologi
+- **Frontend**: Streamlit
+- **Backend**: Python 3.10+
+- **Penyimpanan**: CSV (inventory.csv)
